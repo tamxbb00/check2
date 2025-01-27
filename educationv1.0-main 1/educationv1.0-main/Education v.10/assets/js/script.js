@@ -1,5 +1,6 @@
-
-
+document.getElementById('knowmore-btn').addEventListener('click', function() {
+   window.location.href = 'https://www.cognitoforms.com/NationalHigherSecondarySchool/NationalHigherSecondarySchoolMannargudi';
+});
 document.addEventListener('DOMContentLoaded', function () {
 
   var swiper = new Swiper(".mySwiper", {
